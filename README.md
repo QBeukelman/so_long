@@ -60,11 +60,26 @@ Clone the repository. Complile the program using `make`. Call the executable and
 
 Once the game is running with a valid map, a new window will appear, showing the map, player, coins and exit. The objective is to move the player and thereby collect all coins before reaching the exit.
 
-- `w`   Move up.
-- `d`   Move right.
-- `s`   Move down.
-- `a`   Move left.
-- `esc` Leave game.
+**Keys**
+
+> `w`       Move up.
+
+> `d`       Move right.
+
+> `s`       Move down.
+
+> `a`       Move left.
+
+> `esc`     Leave game.
+
+**Items**
+
+> `green`   Player.
+
+> `red`     Enemy bot.
+
+> `blue`    Exit.
+
 <br />
 
 ![alt text](https://uploads-ssl.webflow.com/60255c87f21230edfb5fa38e/6408b06fd831192b56dd3de4_push_swap.gif)
